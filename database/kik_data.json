@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "Nama": "a",
+      "Password": "a",
+      "Email": "a@student.id",
+      "WA": "081234567890",
+      "Role": "user"
+    },
+    {
+      "Nama": "Tegar",
+      "Password": "123",
+      "Email": "muhammadtegar483@gmail.com",
+      "WA": "0882000291923",
+      "Role": "user"
+    },
+    {
+      "Nama": "admin",
+      "Password": "admin",
+      "Email": "admin@cutpixel.id",
+      "WA": "0882000291923",
+      "Role": "admin"
+    },
+    {
+      "Nama": "Naufal",
+      "Password": "pass",
+      "Email": "naufal.creator@gmail.com",
+      "WA": "081298765432",
+      "Role": "user"
+    }
+  ],
+  "orders": [
+    {
+      "ID": 1,
+      "Username": "a",
+      "Email": "a@student.id",
+      "WA": "081234567890",
+      "Paket": "Tier 1: Murid // Quick Reels",
+      "Harga": "Rp 45.000",
+      "LinkDrive": "https://drive.google.com/drive/folders/demo-tugas-kuliah-1",
+      "Pesanan": "Tugas video presentasi mata kuliah KIK, tolong cut bagian yang hening dan tambah subtitle kekinian.",
+      "Status": "Sedang Diedit",
+      "Create_At": "2026-10-30 14:15:20"
+    },
+    {
+      "ID": 2,
+      "Username": "Tegar",
+      "Email": "muhammadtegar483@gmail.com",
+      "WA": "0882000291923",
+      "Paket": "Tier 2: Creator // YT & TikTok Pro",
+      "Harga": "Rp 120.000",
+      "LinkDrive": "https://drive.google.com/drive/folders/vlog-jogja-creator",
+      "Pesanan": "Vlog jalan-jalan kuliner Jogja durasi 7 menit. Tolong color grading vibrant dan sound effect meme pas bagian review makanan.",
+      "Status": "Selesai",
+      "Create_At": "2026-10-29 18:30:10"
+    },
+    {
+      "ID": 3,
+      "Username": "Naufal",
+      "Email": "naufal.creator@gmail.com",
+      "WA": "081298765432",
+      "Paket": "Tier 2: Creator // YT & TikTok Pro",
+      "Harga": "Rp 120.000",
+      "LinkDrive": "https://drive.google.com/drive/folders/podcast-highlight-eps4",
+      "Pesanan": "3 video Shorts untuk promosi podcast gaming di TikTok. Hook awal 3 detik harus nendang.",
+      "Status": "Sedang Diedit",
+      "Create_At": "2026-10-30 09:12:44"
+    },
+    {
+      "ID": 4,
+      "Username": "Siti Rahma",
+      "Email": "siti.rahma@univ.ac.id",
+      "WA": "085611223344",
+      "Paket": "Tier 1: Murid // Quick Reels",
+      "Harga": "Rp 45.000",
+      "LinkDrive": "https://drive.google.com/drive/folders/tugas-drama-bahasa",
+      "Pesanan": "Video drama kelompok bahasa Indonesia durasi 60 detik. Tolong audio suara diperjelas.",
+      "Status": "Antrean",
+      "Create_At": "2026-10-30 19:40:02"
+    },
+    {
+      "ID": 5,
+      "Username": "Budi Studio",
+      "Email": "budi.agency@creative.co",
+      "WA": "081377889900",
+      "Paket": "Tier 3: Studio // Cinematic & Long-form",
+      "Harga": "Rp 350.000",
+      "LinkDrive": "https://drive.google.com/drive/folders/company-profile-2026",
+      "Pesanan": "Video dokumenter profil UKM tenun, rekaman kamera Sony FX3, butuh DaVinci color grade sinematik & sound mastering.",
+      "Status": "Antrean",
+      "Create_At": "2026-10-30 20:05:15"
+    }
+  ]
+}
